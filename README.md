@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Gursamer
-- 👀 I’m interested and learning: Git/Github
 - 🌱 I’m currently: A CS major student
 - 📫 How to reach me Email: mangatgursamer@gmail.com
 - 😄 Pronouns: He/Him
